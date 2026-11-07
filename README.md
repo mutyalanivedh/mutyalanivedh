@@ -70,7 +70,7 @@ Explored data-driven approaches for predicting PAB-related process parameters.
 
 ## 💼 Internship Experience
 
-- 1. Coromandel International
+1. Coromandel International
 
 Worked on industrial process data analysis.
 
